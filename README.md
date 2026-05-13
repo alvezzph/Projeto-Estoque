@@ -13,20 +13,20 @@ O objetivo do sistema é facilitar o gerenciamento de produtos em estoque, permi
 
 ## Funcionalidades
 
--Cadastro de Produtos
--Listagem de Produtos
--Atualização de estoque
--Remoção de Produtos
--Organização Modular do Sistema
+- Cadastro de Produtos
+- Listagem de Produtos
+- Atualização de estoque
+- Remoção de Produtos
+- Organização Modular do Sistema
 
 ---
 
 # Tecnologias Ultilizadas
 
--Python
--Git
--GitHub
--Colab
+- Python
+- Git
+- GitHub
+- Colab
 
 ---
 
@@ -50,7 +50,37 @@ O objetivo do sistema é facilitar o gerenciamento de produtos em estoque, permi
 
 1. Clone o repositório:
 
-2. '''bash
-3. git clone 
+ '''bash
+ git clone https://github.com/alvezzph/Projeto-Estoque
+ '''
 
+2. Entre na pasta do projeto:
+
+ '''bash
+ cd estoque
+ '''
+
+3. Execute o programa:
+
+ '''bash
+ python main.py
+ '''
+
+ ---
+
+ ## 📖 Aprendizados
+
+ Durante o desenvolvimento deste projeto foram praticados conceitos como:
+
+ - Modularização
+ - Organização do Código
+ - Manipulação de Dados
+ - Estruturas Condicionais e de Repetição
+ - Versionamento com Git e GitHub
+
+---
+
+## 👨‍💻 Autores
+
+Desenvolvido por Pedro Henrique ALves e Cauã Felipe
 
