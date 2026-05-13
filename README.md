@@ -82,5 +82,5 @@ O objetivo do sistema é facilitar o gerenciamento de produtos em estoque, permi
 
 ## 👨‍💻 Autores
 
-Desenvolvido por Pedro Henrique ALves e Cauã Felipe
+Desenvolvido por Pedro Henrique Alves e Cauã Felipe
 
