@@ -8,7 +8,7 @@ Sistema de Controle de Estoque Desenvolvido em Python.
 
 # Objetivo
 
-O objetivo do sistema é facilitar o gerenciamento de produtos em estoque, permitindo cadastrar, vizualisar, atualizar e remover produtosde forma prática.
+O objetivo do sistema é facilitar o gerenciamento de produtos em estoque, permitindo cadastrar, vizualisar, atualizar e remover produtos de forma prática.
 
 ---
 
