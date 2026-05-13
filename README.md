@@ -1,4 +1,5 @@
-!["Capa do nosso projeto].<img width="1920" height="1080" alt="banner" src="https://github.com/user-attachments/assets/6203208f-8b62-48cb-befe-dcda8c93b898" />
+<img width="1672" height="941" alt="banner" src="https://github.com/user-attachments/assets/88999830-eed5-4b65-bd14-b38797b8d64f" />
+
 # 📦 StockFlow
 
 Sistema de Controle de Estoque Desenvolvido em Python.
