@@ -28,6 +28,7 @@ O objetivo do sistema é facilitar o gerenciamento de produtos em estoque, permi
 - Git
 - GitHub
 - Colab
+- Canvas
 
 ---
 
