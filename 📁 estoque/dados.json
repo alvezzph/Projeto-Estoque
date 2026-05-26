@@ -1,0 +1,12 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "café",
+            "categoria": "alimento",
+            "preco": 15.0,
+            "quantidade": 9
+        }
+    ],
+    "ultimo_id": 1
+}
